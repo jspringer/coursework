@@ -1,2 +1,2 @@
 # Other Coursework
-Coursework from NodeSchool and Flatiron School's Learn.co. 
+Coursework from Pluralsight, Udemy, NodeSchool, and Learn.co.
