@@ -12,13 +12,11 @@ public class Product
 
     public static final Comparator<Product> BY_WEIGHT = comparing(Product::getWeight);
 
-    private final int id;
     private final String name;
     private final int weight;
 
-    public Product(final int id, final String name, final int weight)
+    public Product(String name, int weight)
     {
-        this.id = id;
         this.name = name;
         this.weight = weight;
     }
@@ -33,16 +31,11 @@ public class Product
         return weight;
     }
 
-    public int getId()
-    {
-        return id;
-    }
-
+    @Override
     public String toString()
     {
         return "Product{" +
-            "id=" + id +
-            ", name='" + name + '\'' +
+            "name='" + name + '\'' +
             ", weight=" + weight +
             '}';
     }
@@ -53,13 +46,12 @@ public class Product
 
         final Product product = (Product) o;
 
-        return Objects.equals(id, product.id)
-            && Objects.equals(weight, product.weight)
+        return Objects.equals(weight, product.weight)
             && Objects.equals(name, product.name);
     }
 
     public int hashCode()
     {
-        return Objects.hash(id, name, weight);
+        return Objects.hash(name, weight);
     }
 }
