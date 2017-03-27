@@ -1,3 +1,2 @@
 # Python Fundamentals
-Completed coursework for Pluralsight's "Python Fundamentals" course: 
-https://www.pluralsight.com/courses/python-fundamentals
+Completed coursework for Pluralsight's ["Python Fundamentals"](https://www.pluralsight.com/courses/python-fundamentals) course. 
