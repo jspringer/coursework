@@ -1,5 +1,5 @@
 # Building Applications with React and Flux
-Completed web app for Pluralsight's Building Applications with React and Flux course: https://www.pluralsight.com/courses/react-flux-building-applications
+Completed web app for Pluralsight's ["Building Applications with React and Flux"](https://www.pluralsight.com/courses/react-flux-building-applications) course.
 
 To run:
 1. Open the before or after directory on the command line
