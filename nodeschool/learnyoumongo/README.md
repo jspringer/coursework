@@ -1,2 +1,2 @@
 # learnyoumongo
-Solutions to NodeSchool's Learnyoumongo MongoDB workshop: https://github.com/evanlucas/learnyoumongo
+Solutions to NodeSchool's [Learnyoumongo](https://github.com/evanlucas/learnyoumongo) MongoDB workshop.
