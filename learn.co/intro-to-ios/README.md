@@ -1,7 +1,7 @@
 Links to my forks and solutions to exercises on Flatiron School's Learn.co ["Intro to iOS Development"] (https://flatironschool.com/programs/online-swift-free-course/) course.
 
-https://github.com/jspringer/ios-first-lab-001-prework-ios
-https://github.com/jspringer/ios-your-first-NSLog-001-prework-ios
+https://github.com/jspringer/ios-first-lab-001-prework-ios  
+https://github.com/jspringer/ios-your-first-NSLog-001-prework-ios  
 https://github.com/jspringer/objc-interpolate-001-prework-ios
 https://github.com/jspringer/objc-xcode-warnings-errors-001-prework-ios
 https://github.com/jspringer/objc-simple-math-001-prework-ios
