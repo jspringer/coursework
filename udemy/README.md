@@ -1,2 +1,2 @@
 # Udemy
-Completed [Udemy](https://www.udemy.com/) coursework.
+Completed [Udemy](https://www.udemy.com/) projects.
