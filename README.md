@@ -1,6 +1,6 @@
 # Coursework
 
-## Udemy Certificates
+### Udemy Certificates
 
 [Web Development Bootcamp (MERN stack)](https://www.udemy.com/certificate/UC-D0TERNDS/)
 
